@@ -1,0 +1,20 @@
+{
+  "name": "stop-watch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel src/index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.0",
+    "typescript": "^4.5.5"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.0.1"
+  }
+}
