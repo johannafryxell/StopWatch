@@ -1,7 +1,7 @@
 # Stop Watch
 A simple Stop Watch
 
-![](stopwatchpic.jpeg)
+![](./dist/stopwatchpic.jpeg)
 
 ## Installation
 Clone the repo\
