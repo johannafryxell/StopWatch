@@ -4,10 +4,10 @@ A simple Stop Watch
 ![](./dist/stopwatchpic.jpeg)
 
 ## Installation
-Clone the repo\
+1. Clone the repo\
 git clone https://github.com/johannafryxell/StopWatch
 
-Run parcel\
+2. Run parcel\
 npm run build
 
 ## Built with
