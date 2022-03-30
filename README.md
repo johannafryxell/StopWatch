@@ -1,7 +1,7 @@
 # Stop Watch
 A simple Stop Watch
 
-![](.stopwatchpic.jpeg)
+![](stopwatchpic.jpeg)
 
 ## Installation
 Clone the repo\
@@ -17,8 +17,4 @@ npm run build
 - Parcel
 
 ## Details
-This was a personal project I created in school based on an assignment.
-
-You can create a task, mark it as done, as well as remove it completely.
-
-The list is saved in localStorage.
+This was a personal project I created to practice TypeScript
