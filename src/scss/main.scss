@@ -18,11 +18,21 @@ main{
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-items: center;
+    width: 308px;
+    height: 322px;
+    background-image: url("../../dist/stopwatch.png");
+    background-size: cover;
 
     p{
         display: flex;
         justify-content: center;
         font-size: 24pt;
+        background-color: black;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: 70%;
+        border-radius: 5px;
 
         span{
             background-color: white;

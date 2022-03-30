@@ -18,22 +18,36 @@ main {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
+  width: 308px;
+  height: 322px;
+  background-image: url("stopwatch.ce7e0aec.png");
+  background-size: cover;
 }
+
 .container p {
   display: flex;
   justify-content: center;
   font-size: 24pt;
+  background-color: black;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 70%;
+  border-radius: 5px;
 }
+
 .container p span {
   background-color: white;
   padding: 4px;
   border-radius: 4px;
 }
+
 .container .buttons {
   display: flex;
   justify-content: center;
   column-gap: 10px;
 }
+
 .container .buttons button {
   background: none;
   font-size: 12pt;
@@ -42,6 +56,7 @@ main {
   padding: 6px;
   text-transform: uppercase;
 }
+
 .container .buttons button:hover {
   cursor: pointer;
 }
