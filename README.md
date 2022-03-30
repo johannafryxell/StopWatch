@@ -1,4 +1,4 @@
-# Stop Watch
+# Stop Watch ⏱
 A simple Stop Watch
 
 ![](./dist/stopwatchpic.jpeg)
